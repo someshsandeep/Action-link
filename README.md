@@ -1,9 +1,3 @@
-Here’s a structured **README.md** draft for your GitHub repository based on the projects you’ve shared—**Sign Language and Action Detection using LSTM** and **Sentiment Analysis using LSTM-BERT**.
-
-You can choose to create two repositories (recommended) or combine both into one. I’ll provide the README structure assuming two **separate repos** for clarity:
-
----
-
 ## 📁 Repo 1: ActionLink — Sign Language and Action Detection using LSTM
 
 ```markdown
